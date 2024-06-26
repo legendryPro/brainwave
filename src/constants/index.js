@@ -69,6 +69,11 @@ export const navigation = [
     url: "#login",
     onlyMobile: true,
   },
+  {
+    id: "6",
+    title: "Europa",
+    url: "#",
+  },
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
@@ -103,8 +108,8 @@ export const roadmap = [
   },
   {
     id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
+    title: "Learner",
+    text: "Talk with your own data Support PDF DOCS .",
     date: "May 2023",
     status: "progress",
     imageUrl: roadmap2,
@@ -114,7 +119,7 @@ export const roadmap = [
     title: "Chatbot customization",
     text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
     date: "May 2023",
-    status: "done",
+    status: "progress",
     imageUrl: roadmap3,
   },
   {
