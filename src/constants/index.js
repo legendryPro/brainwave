@@ -72,7 +72,7 @@ export const navigation = [
   {
     id: "6",
     title: "Europa",
-    url: "#",
+    url: "https://github.com/legendryPro/Europa.git",
   },
 ];
 
