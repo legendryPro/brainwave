@@ -66,10 +66,10 @@ const Header = () => {
         </nav>
 
         <a
-          href="#signup"
+          href="https://learner-vi31.onrender.com/"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
-          New account
+          Learner
         </a>
         <Button className="hidden lg:flex" href="#login">
           Sign in
