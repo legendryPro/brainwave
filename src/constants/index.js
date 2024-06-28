@@ -59,8 +59,8 @@ export const navigation = [
   },
   {
     id: "4",
-    title: "New account",
-    url: "#signup",
+    title: "Learner",
+    url: "https://learner-vi31.onrender.com/",
     onlyMobile: true,
   },
   {
